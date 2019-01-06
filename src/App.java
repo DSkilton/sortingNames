@@ -9,7 +9,6 @@ public class App {
         Arrays.sort(actualNames);
         for (final String name : actualNames){
             System.out.println(name);
-        }
-    }
-
+        } // end of sort and print
+    } // end of main
 }
